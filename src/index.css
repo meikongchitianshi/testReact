@@ -1,17 +1,26 @@
 
 body{
-    font-size: 12px;
+    margin: 0;
+    font-size: 20px;
     text-align: center;
+    /*background-color: lightsalmon;*/
 }
 div{
-    color: #ffffff;
+    /*color: #fff;*/
 }
-
-.red{
+img{
+    /*display: block;*/
+}
+.rW{
     background: firebrick;
+    color: #fff;
+    line-height: 40px;
+    margin-bottom: 5px;
 }
-.blue{
+.bW{
+    color: #fff;
     background-color: deepskyblue;
+    line-height: 40px;
 }
 
 
